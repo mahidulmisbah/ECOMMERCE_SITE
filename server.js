@@ -12,7 +12,7 @@ dotenv.config();
 // database connection 
 connectDB();
 
-// rest  
+// rest mnkhkjjk
 const app = express();
 
 //middlewares
